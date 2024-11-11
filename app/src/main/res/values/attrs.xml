@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Chart">
+        <attr name="maxDay" format="integer"/>
+        <attr name="column" format="integer"/>
+        <attr name="isFormatNumber" format="boolean"/>
+    </declare-styleable>
+
+</resources>
