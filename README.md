@@ -38,14 +38,13 @@ in **Setting.gradle**
     app:layout_constraintBottom_toBottomOf="parent"/>
 ```
 
-
 **Demo**
+
 ![alt tag](https://github.com/ngoconglinh/aChart/blob/main/screenshots/image.png?raw=true)
 <br/><br/>
 
 
-**<h2="social">Use</h2>**
-<br/><br/>
+**Use**
 ```kotlin
     aChart.addChartPoint(MutableList)
     aChart.setColorEnable(Boolean)
