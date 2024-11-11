@@ -40,7 +40,7 @@ in **Setting.gradle**
 
 
 **Demo**
-![alt tag](https://raw.ngoconglinh.com/aChart/master/screenshots/image.png)
+![alt tag](https://github.com/ngoconglinh/aChart/blob/main/screenshots/image.png?raw=true)
 <br/><br/>
 
 
