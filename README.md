@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-**ComplexView** is available on jitpack.
+**aChart** is available on jitpack.
 
 Add dependency:
 
@@ -16,13 +16,13 @@ to use **aChart**:
 
 in **Setting.gradle**
 ```groovy
-	dependencyResolutionManagement {
-		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-		repositories {
-			mavenCentral()
-			maven { url 'https://jitpack.io' }
-		}
-	}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 ```xml
 
